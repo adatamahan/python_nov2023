@@ -1,4 +1,4 @@
-kunskapskontroll <br>
+Kunskapskontroll <br>
 Python <br>
 Ec Utbildning <br>
 Astrid Hansen <br>
